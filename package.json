@@ -6,7 +6,16 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["nodejs","express"],
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
   "author": "Willy Fernando",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
 }
