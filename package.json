@@ -4,7 +4,8 @@
   "description": "Repositório para criarmos um servidor node através do framework express",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
   },
   "keywords": [
     "nodejs",
